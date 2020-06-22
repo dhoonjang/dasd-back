@@ -2,7 +2,7 @@
 
 ---
 
-## 1. We haven't finished implementing it yet
+## 1. We began to build back-end servers in Django
 
 ## 2. We implemented only the domain part
 
